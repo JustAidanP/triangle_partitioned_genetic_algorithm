@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "image_lib",
+    "cli",
+    "nannou",
+    "genetic_algorithm_lib"
+]
+resolver = "2"
